@@ -1,4 +1,4 @@
-Absolutely! Here's a complete and clean **README.md** for your project:  
+
 **Customer Churn Prediction with MLlib (PySpark)**
 
 ---
