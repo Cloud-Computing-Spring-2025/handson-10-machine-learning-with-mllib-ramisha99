@@ -1,0 +1,25 @@
+Logistic Regression AUC: 0.81
+Top 5 feature selected usinh Chi-Square Test.
++--------------------+----------+
+|    selectedFeatures|ChurnIndex|
++--------------------+----------+
+|[1.0,1.0,0.0,0.0,...|       0.0|
+|[0.0,0.0,0.0,1.0,...|       1.0|
+|       (5,[4],[1.0])|       0.0|
+|[1.0,0.0,0.0,0.0,...|       1.0|
+|[1.0,1.0,0.0,1.0,...|       0.0|
++--------------------+----------+
+only showing top 5 rows
+
+
+Tuning Logistic Regression...
+Best Logistic Regression AUC: 0.81 | regParam=0.01, maxIter=20
+
+Tuning Decision Tree...
+Best Decision Tree AUC: 0.7 | maxDepth=5
+
+Tuning Random Forest...
+Best Random Forest AUC: 0.82 | maxDepth=10, numTrees=20
+
+Tuning GBT...
+Best GBT AUC: 0.8 | maxDepth=5, maxIter=10
