@@ -43,7 +43,7 @@ This project uses **Apache Spark MLlib** to predict customer churn based on stru
 ```bash
 python3 customer-churn-analysis.py > output.txt
 ```
-
+### The output file is in the output.txt
 
 ##  Task Breakdown and Explanations
 
